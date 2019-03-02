@@ -9,6 +9,11 @@
   font-family: inherit;
 }
 
+.all-we-got :focus {
+  outline-color: MediumVioletRed;
+  outline-style: dashed;
+}
+
 .be-easy-with-my-heart {
   margin: 0;
 }
@@ -33,7 +38,6 @@
 .lessons-feel-new {
   margin: 0;
   padding: .5rem;
-  outline-color: currentColor;
 }
 
 .love-is-easy {
